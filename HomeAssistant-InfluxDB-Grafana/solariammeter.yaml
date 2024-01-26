@@ -1,5 +1,5 @@
 ##################################################################################
-## ct1(_a) on the inveter part and ct2(_b) is on the grid part, ct3(_c) not use ##
+## ct1(_a) on the inverter part and ct2(_b) is on the grid part, ct3(_c) not use ##
 ##################################################################################
 sensor:
 #-----SolarMeter-----
